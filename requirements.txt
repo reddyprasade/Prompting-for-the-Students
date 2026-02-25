@@ -1,0 +1,3 @@
+# Requirements for Prompting-for-the-Students
+# Core dependency (optional — needed only to run against a real LLM API)
+openai>=1.0.0
